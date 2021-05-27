@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project5-M.IkhsanGumanof</string>
+    <string name="list_programming">List Programming</string>
+    <string name="icon2">Icon</string>
+    <string name="ere">ERE</string>
+    <string name="itemimage">ItemImage</string>
+    <string name="detailimage">DetailImage</string>
+    <string name="Descayambakar">Ayam bakar yang dibakar dengan bumbu spesial.</string>
+    <string name="Descayamkrispi">Ayam krispi yang digoreng diminyak panas dengan baluran tepung spesial.</string>
+    <string name="Descbaksogulung">Bakso gulung yang digoreng dengan bumbu spesial dan baksonya juga spesial.</string>
+    <string name="Descchips">Chip jagung yang dimasak dengan jagung yang manis serta bumbu spesial.</string>
+    <string name="Desckebab">Kebab yang dibuat dengan isi-isi an spesial yang dibungkus dengan kulit yang sangat spesial.</string>
+    <string name="Descsoto">Soto yang dibuat dengan mie dan daging serta bumbu spesial.</string>
+    <string name="Descsteak">Steak yang dipanggang dengan daging yang super lembut dan dipenuhi dengan bumbu spesial.</string>
+    <string name="Descsup">Sup yang dibuat dengan sayur dan daging serta bumbu spesial.</string>
+</resources>
